@@ -51,7 +51,7 @@ To run this application, you need the following dependencies:
 
 ```bash
 git clone https://github.com/TobiasKothbauer/image-captioning.git
-cd image-caption-generator
+cd image-captioning
 ```
 ### Install Dependencies
 
